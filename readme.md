@@ -3,9 +3,9 @@
 #### Simple Gallery-Slider use React.js
 
 ### Steps to build and run
-- npm install
-- npm run build
-- npm run watch
-- npm start
+- `npm install`
+- `npm run build`
+- `npm run watch`
+- `npm start`
 
-(all files served from /test dir)
+(all files served from `/tests` dir)
